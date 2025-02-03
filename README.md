@@ -5,7 +5,7 @@
 
 
 ## 🖥Project
-**[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Forntend)
+**[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Frontend)
 
 ## 🎓Education
 - Programmers Frontend 1st Delicourse, 2024.07 - 2024.12
