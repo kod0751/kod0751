@@ -1,9 +1,6 @@
 ## 😃About Me
 -  박덕인
 
-## 📃Portfolio
-
-
 ## 🖥Project
 **[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Frontend)
 
