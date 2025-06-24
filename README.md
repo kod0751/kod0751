@@ -2,7 +2,7 @@
 -  박덕인
 
 ## 🖥Project
-**[Calmiary](https://github.com/prgrms-fe-devcourse/NFE1-1-3-Calmiary)** 2024.10 - 2024.11 (Frontend)
+**[Calmiary](https://github.com/prgrms-fe-devcourse/NFE1-1-3-Calmiary)** 2024.10 - 2024.11 (Frontend)  
 **[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Frontend)
 
 ## 🎓Education
