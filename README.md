@@ -1,5 +1,6 @@
 ## 😃About Me
--  박덕인
+프론트엔드 개발자로 사용자 경험 개선과 성능 최적화에 관심이 많습니다.  
+더 직관적이고 빠른 웹 서비스를 만들기 위해 끊임없이 학습하고 있습니다.
 
 ## 🖥Project
 **[Calmiary](https://github.com/prgrms-fe-devcourse/NFE1-1-3-Calmiary)** 2024.10 - 2024.11 (Frontend)  
