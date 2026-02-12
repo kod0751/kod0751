@@ -5,8 +5,8 @@
 ## 🖥Project
 **[Calmiary](https://github.com/prgrms-fe-devcourse/NFE1-1-3-Calmiary)** 2024.10 - 2024.11 (Frontend)  
 **[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Frontend)  
-**[MyAccount](https://github.com/kod0751/MyAccount)** 2025.02 - 2024.03 (Frontend)  
 **[PawHaven](https://github.com/kod0751/PawHaven)** 2025.04 - 2025.06 (Frontend)
+**[EquipGuard](https://github.com/kod0751/EquipGuard)** 2025.12 - 2026.01 (Frontend)  
 
 ## 🎓Education
 - Programmers Frontend 1st Delicourse, 2024.07 - 2024.12
