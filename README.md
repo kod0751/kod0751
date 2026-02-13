@@ -7,6 +7,7 @@
 **[Quizy](https://github.com/prgrms-web-devcourse-final-project/WEB1_1_Endpoint_FE)** 2024.11 - 2024.12 (Frontend)  
 **[PawHaven](https://github.com/kod0751/PawHaven)** 2025.04 - 2025.06 (Frontend)  
 **[EquipGuard](https://github.com/kod0751/EquipGuard)** 2025.12 - 2026.01 (Frontend/ML)  
+**[Royalty](https://github.com/wo2young/Royalty-AI)** 2026.01 - 2026.02 (Frontend/ML)  
 
 ## 🎓Education
 - Programmers Frontend 1st Delicourse, 2024.07 - 2024.12
